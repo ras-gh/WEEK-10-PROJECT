@@ -1,0 +1,15 @@
+The database contains the tblfilms table (with some dumy data)
+and was exported from MySQL Workbench as a .sql file
+To run the program, run the file 'frontend.py'.
+This will then load the module to connect to the MySQL server.
+You will be prompted for your MySQL server password.
+If the connection is successful, the terminal will print
+'Connection Successful'.
+The GUI will open up in a separate window with the title:
+'Welcome to the Filmflix Control Panel'
+Instructions are included within the panel.
+The user can search for a record by Id, add a record, delete
+a record or update a record.
+There are also several customised searches as follows:
+Search for films by genre, sort for films released in a 
+specific year, or sort for films by their rating.
