@@ -1,7 +1,7 @@
-The database contains the tblfilms table (with some dumy data)
+The database contains the tblfilms table (with some dummy data)
 and was exported from MySQL Workbench as a .sql file
 To run the program, run the file 'frontend.py'.
-This will then load the module to connect to the MySQL server.
+This will then load the module to connect locallly to the MySQL server.
 You will be prompted for your MySQL server password.
 If the connection is successful, the terminal will print
 'Connection Successful'.
