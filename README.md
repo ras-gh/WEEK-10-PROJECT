@@ -4,7 +4,7 @@ Week 10 Project for Software Development Bootcamp
 The brief was to create an app which could read and manipulate a database using python coding.
 I decided to create a simple database from scratch in MySQL Workbench.
 The table in the database was then populated with dummy data.
-I decided to create a simple GUI using tkinter, which is a module built in to Python
+I decided to create a user-friendly GUI using tkinter, which is a module built in to Python
 and enables the creation of a visual display window independent of any web browser.
 The GUI was then opulated with various widgets which could either be buttons
 to perform actions, text fields to hold data, labels and combo boxes to allow
