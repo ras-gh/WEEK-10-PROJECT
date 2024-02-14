@@ -6,7 +6,7 @@ I decided to create a simple database from scratch in MySQL Workbench.
 The table in the database was then populated with dummy data.
 I decided to create a user-friendly GUI using tkinter, which is a module built in to Python
 and enables the creation of a visual display window independent of any web browser.
-The GUI was then opulated with various widgets which could either be buttons
+The GUI was then populated with various widgets which could either be buttons
 to perform actions, text fields to hold data, labels and combo boxes to allow
 the user to make selections from a list.
 
