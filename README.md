@@ -1,4 +1,4 @@
-# WEEK-10-PROJECT
+# WEEK-10-PROJECT CREATE A PYTHON DATABASE APP
 Week 10 Project for Software Development Bootcamp
 
 The brief was to create an app which could read and manipulate a database using python coding.
