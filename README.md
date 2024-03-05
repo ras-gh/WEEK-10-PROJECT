@@ -1,5 +1,5 @@
 # WEEK-10-PROJECT - CREATE A PYTHON DATABASE APP
-Week 10 Project for Software Development Bootcamp
+Week 10 Bootcamp Project - Python Database App
 
 The brief was to create an app which could read and manipulate a database using python coding.
 I decided to create a simple database from scratch in MySQL Workbench.
